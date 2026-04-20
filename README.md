@@ -73,6 +73,7 @@ The system generates a smooth, continuous graph of the signal:
 * Python – Data processing and visualization
 * NumPy / SciPy – Signal processing
 * Matplotlib – Graphing
+<img width="281" height="432" alt="workflow" src="https://github.com/user-attachments/assets/9c773aa9-9fea-45b2-a0c0-24131651b89d" />
 
 ---
 
@@ -85,6 +86,8 @@ The system generates a smooth, continuous graph of the signal:
 * Smooth and intuitive visualization
 
 ---
+<img width="281" height="484" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/a1944ec1-d6c7-4216-8bc1-eb556e4b54f5" />
+
 
 ## Challenges & Learnings
 
@@ -108,6 +111,7 @@ The system generates a smooth, continuous graph of the signal:
 * Real Time analytics for each person inside
 * using ESP32 (with modified firmware)
 * ESP32-S3 CSI firmware
+<img width="322" height="341" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/577d7602-b769-48fa-a683-49fd2909f5c0" />
 
 ---
 
